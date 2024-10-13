@@ -2,6 +2,8 @@
 
 Bismillah Assalamualaikum
 
+![Alt Text](./Sulaiman.png)
+
 I’m a Software Engineering Student in the Faculty of Computer Science and Information Technology in Universiti Malaya.
 
 For the Semester 1 of 25/24 session the subjects I take includes:
