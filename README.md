@@ -16,3 +16,10 @@ For the Semester 1 of 25/24 session the subjects I take includes:
 Taking life one step at a time.
 
 For this semester, I hope to be able to expand my knowledge further.
+_____________________________________________________________________
+Languages:
+- Java
+- Kotlin
+- Python
+- C#
+- Godotscript
